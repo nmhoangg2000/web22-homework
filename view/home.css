@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: Bold;
+    font-size: 3rem;
+    background-size: 5rem
+}
+
+nav{
+    height: 2.5rem;
+    background-color: greenyellow;
+    font-size: 2rem;
+    color: aliceblue;
+}
+
+form{
+    text-align: center;
+}
+
+#yes_no{
+    background-size: 2.5rem
+}
